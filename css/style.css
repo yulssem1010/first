@@ -1,0 +1,2506 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Black+Han+Sans&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+KR:wght@100..900&family=Staatliches&display=swap');
+
+.inner-plugin-iframe6 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.h1-icon2 {
+  height: 124px;
+  width: 242px;
+  object-fit: cover;
+}
+
+.nav-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  max-width: 100%;
+}
+
+.program1 {
+  text-decoration: none;
+  height: 39px;
+  width: 124px;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+
+.view1 {
+  text-decoration: none;
+  height: 39px;
+  width: 67px;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+
+.line-up {
+  text-decoration: none;
+  height: 39px;
+  /* width: 102px; */
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+
+.inner-plugin-iframe7 {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.ticket3 {
+  text-decoration: none;
+  height: 39px;
+  width: 82px;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+
+.ticket2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 0px;
+  gap: 15px;
+}
+
+.event1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: #3d3d5c;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
+
+.search-input {
+  background: transparent;
+  border: none;
+  color: white;
+  padding: 5px;
+  width: 150px;
+  font-size: 14px;
+}
+
+.search-input::placeholder {
+  color: #8585ad;
+}
+
+.search-input:focus {
+  outline: none;
+}
+
+.search-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.search-icon2 {
+  width: 20px;
+  height: 20px;
+}
+
+.mypage-icon2 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+}
+
+.mypage2 a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.vector-icon2 {
+  height: 40.5px;
+  width: 40.5px;
+  position: relative;
+}
+
+.lang2 a {
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+
+.nav-right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 5px;
+  gap: 40px;
+}
+
+.main-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 60px 3.7px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 30px;
+  color: #9290c3;
+  font-family: 'Hancom MalangMalang';
+}
+
+.girl-riding-skateboard-making-icon2 {
+  position: absolute;
+  top: -50px;
+  left: 0px;
+  width: 1920px;
+  height: 900px;
+  object-fit: cover;
+}
+
+.full-shot-woman-with-skateboar-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+
+.mr-bean-live-performance-at-t {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+
+.div75 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+
+.leehot-sports-center2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 90px;
+  font-weight: 400;
+  font-family: Staatliches;
+  z-index: 3;
+}
+
+.div76 {
+  position: relative;
+  font-weight: 100;
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 3;
+}
+
+.center-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  max-width: 100%;
+}
+
+.info-wrapper {
+  position: absolute;
+  left: 60px;
+  top: 32px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+  color: #e2b1ea;
+}
+
+.grip-lines-vertical-icon2 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+
+.div77 {
+  position: relative;
+  display: inline-block;
+  min-width: 39px;
+  z-index: 3;
+}
+
+.wrapper21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0px 0px;
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+  font-size: 20px;
+  color: #fff;
+  font-family: 'Hakgyoansim Dunggeunmiso TTF';
+}
+
+.h16 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 32.5px 123px 60px 60px;
+  box-sizing: border-box;
+  gap: 482.5px;
+  max-width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.slide-01 {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+
+.background-video,
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slide-controls {
+  position: absolute;
+  bottom: 60px;
+  right: 120px;
+  width: 124px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.arrow-left,
+.arrow-right {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.vector-icon,
+.vector-icon1 {
+  width: 15px;
+  height: 15px;
+}
+
+.slide-controls .swiper-pagination {
+  position: relative;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  height: 100%;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-pagination .swiper-pagination-current,
+.swiper-pagination .swiper-pagination-total {
+  min-width: 20px;
+  text-align: center;
+}
+
+.slide-controls .swiper-button-prev:after,
+.slide-controls .swiper-button-next:after {
+  content: '';
+  font-size: 0;
+}
+
+.slide-controls .swiper-button-next,
+.slide-controls .swiper-button-prev {
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  position: relative;
+}
+
+.content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 45.7px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: #fff;
+  font-family: Montserrat;
+}
+
+.healthy-and-happy2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.healthy-happy {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0 45.7px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 150px;
+  color: #d1d0f3;
+  font-family: 'Black Han Sans';
+}
+
+.b4 {
+  position: relative;
+}
+
+.separator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  background-color: #8582d1;
+  border-top: 2px solid #8582d1;
+  box-sizing: border-box;
+}
+
+.separator-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20.5px 0px 0px;
+  box-sizing: border-box;
+  min-width: 152px;
+}
+
+.active-programs {
+  width: 467px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+
+.p26 {
+  margin: 0;
+}
+
+.h33 {
+  margin: 0;
+  width: 508px;
+  position: relative;
+  font-size: 38px;
+  font-weight: 400;
+  font-family: inherit;
+  color: #535c91;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.text-11 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 54px 20px 194px 48px;
+  box-sizing: border-box;
+  gap: 33px;
+  max-width: 100%;
+}
+
+.pilates6 {
+  position: relative;
+}
+
+.div78 {
+  align-self: stretch;
+  height: 24px;
+  position: relative;
+  font-size: 20px;
+  font-weight: 200;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.program-name-container {
+  width: 287px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.empty-time {
+  position: relative;
+  font-weight: 200;
+}
+
+.program-time {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 4px;
+  font-size: 20px;
+}
+
+.program-details1 {
+  flex: 0.9814;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 31px 41px 30px;
+  gap: 179px;
+  min-width: 300px;
+  max-width: 100%;
+}
+
+.pilates-group {
+  width: 305px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.wrapper22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: 20px;
+}
+
+.program-details2 {
+  flex: 0.9876;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 31px 39px 30px 41px;
+  gap: 179px;
+  min-width: 300px;
+  max-width: 100%;
+}
+
+.program-details-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 3px;
+}
+
+.day {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 0px 13px 21px;
+  font-size: 20px;
+}
+
+.program-details3 {
+  flex: 1;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 31px 38px 17px;
+  gap: 164px;
+  min-width: 300px;
+  max-width: 100%;
+}
+
+.program-item {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  row-gap: 20px;
+}
+
+.list-012 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.program-list2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 54px 0px 0px;
+  box-sizing: border-box;
+  min-width: 780px;
+  max-width: 100%;
+  font-size: 25px;
+  color: #000;
+  font-family: Montserrat;
+}
+
+.programs-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 72px;
+  max-width: 100%;
+}
+
+.icon2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.h17 {
+  margin: 0;
+  width: 231px;
+  height: 61px;
+  position: relative;
+  font-size: inherit;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.h18 {
+  margin: 0;
+  height: 61px;
+  width: 185px;
+  position: relative;
+  font-size: inherit;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.registration {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.parent4 {
+  width: 278px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.txt {
+  width: 100%;
+}
+
+.div83 {
+  height: 60px;
+  width: 250px;
+  position: relative;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.competition-info {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 5px;
+  font-size: 30px;
+  color: #6f6969;
+}
+
+.tennis-info {
+  flex: 0.9186;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 46px 41px 72px;
+  position: relative;
+  gap: 96px;
+  min-width: 300px;
+  max-width: 100%;
+  font-size: 50px;
+  color: #f1f1f1;
+}
+
+.tennis-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 14px 0px 15px;
+}
+
+.frame3 {
+  width: 77.7px;
+  height: 97.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+
+.div84 {
+  width: 199px;
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+.wrapper23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 14px 0px 15px;
+  font-size: 20px;
+}
+
+.frame-icon3 {
+  height: 159.3px;
+  width: 155px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.deeply-nested-empty-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 152px 0px 0px;
+}
+
+.frame-parent25 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 46px;
+  max-width: 100%;
+  font-size: 20px;
+}
+
+.tennis-info1 {
+  flex: 1;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 31px 27px 30px;
+  gap: 25px;
+  min-width: 300px;
+  max-width: 100%;
+}
+
+.div85 {
+  width: 159px;
+  position: relative;
+  font-size: 20px;
+  font-weight: 200;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.teniis-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.tennis-info2 {
+  flex: 0.9273;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 31px 38px 30px 41px;
+  gap: 179px;
+  min-width: 300px;
+  max-width: 100%;
+}
+
+.tennis-details {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 780px;
+  max-width: 100%;
+  row-gap: 20px;
+}
+
+.group-icon2 {
+  height: 400px;
+  width: 189.8px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.group-icon3 {
+  width: 20.5px;
+  height: 20.1px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.group-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 62.5px 0px 0px;
+}
+
+.pp1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.8px;
+}
+
+.pp-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0px 0px;
+}
+
+.tennis-content {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 134px;
+  max-width: 100%;
+}
+
+.tennis-content-wrapper {
+  width: 1650px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 50px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 25px;
+  color: #000;
+  font-family: Montserrat;
+}
+
+.programs-content-parent {
+  width: 1896px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0px 20px 40.7px 0px;
+  box-sizing: border-box;
+  gap: 43px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #8582d1;
+  overflow: hidden;
+}
+
+.golf3 {
+  position: relative;
+  display: inline-block;
+  min-width: 67px;
+}
+
+.golf-parent {
+  width: 268px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.activity-date {
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+  min-width: 89px;
+}
+
+.activity-date-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 42px;
+  font-size: 20px;
+}
+
+.activity-container {
+  flex: 1;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 31px 41px 30px;
+  gap: 179px;
+  min-width: 368px;
+  max-width: 100%;
+}
+
+.frame4 {
+  width: 164.4px;
+  height: 161.3px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+
+.the-seoul-hanriver {
+  position: relative;
+  font-weight: 500;
+}
+
+.the-seoul-hanriver a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.km {
+  position: relative;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.wrapper25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 38px;
+  font-size: 20px;
+}
+
+.div89 {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  font-weight: 200;
+  white-space: nowrap;
+}
+
+.running-group {
+  width: 208px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.div91 {
+  height: 60px;
+  position: relative;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.h19 {
+  margin: 0;
+  height: 61px;
+  flex: 1;
+  position: relative;
+  font-size: 48px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+
+.special-event {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 30px;
+}
+
+.parent5 {
+ 
+  height: 150px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.div92 {
+  width: 258px;
+  position: relative;
+  line-height: 20px;
+  display: flex;
+  /* align-items: center; */
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+.social-links4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 18px 0px 30px;
+  font-size: 30px;
+}
+
+.activity-container3 {
+  flex: 0.9684;
+  border-radius: 0px 100px 0px 100px;
+  background-color: #f1f1f1;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 50px 46px 117px;
+  position: relative;
+  gap: 88px;
+  min-width: 368px;
+  max-width: 100%;
+  font-size: 50px;
+  color: #f1f1f1;
+}
+
+.activity-container3 .icon2 {
+  filter: brightness(50%);
+}
+
+.activity-info {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1px;
+  max-width: 100%;
+}
+
+.activity-details {
+  width: 1603px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.golf-running {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 45px 96.7px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+}
+
+.ticket-icon1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.inner-plugin-iframe8 {
+  position: absolute;
+  top: 17.8px;
+  left: 10.6px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.ticket-container2 {
+  height: 51.6px;
+  width: 51.6px;
+  position: relative;
+}
+
+.ticket-open-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+
+.ticket-open-title-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.3px 0px 0px;
+  box-sizing: border-box;
+  min-width: 268px;
+  max-width: 100%;
+}
+
+.ticket-inner-wrapper1 {
+  width: 486.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 22px;
+  max-width: 100%;
+}
+
+.h34 {
+  margin: 0;
+  width: 317px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.ticket-description2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: 38px;
+  color: #535c91;
+}
+
+.ticket-wrapper2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26.4px;
+  max-width: 100%;
+}
+
+.ticket-content2 {
+  width: 532px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.summer-vacation6 {
+  position: relative;
+}
+
+.summer-vacation-name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 89px 0px 90px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.summer-vacation-details {
+  align-self: stretch;
+  height: 325.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.summer-vacation-items {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 34px;
+  min-width: 284px;
+  max-width: 100%;
+}
+
+.sports-day-with6 {
+  position: relative;
+  font-weight: 600;
+}
+
+.sports-day-extra {
+  position: relative;
+  font-weight: 300;
+}
+
+.sports-day-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 64px 0px 60px;
+  font-size: 25px;
+}
+
+.sports-day-name-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+  max-width: 100%;
+}
+
+.sports-day-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 5px 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.div93 {
+  width: 137px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.sports-day-application-contain {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6px 0px 0px;
+}
+
+.hand-point-up-icon10 {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.sports-day-application {
+  border-radius: 30px;
+  background-color: rgba(226, 177, 234, 0.8);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 37px 19px 40px;
+  gap: 16px;
+  font-size: 25px;
+  font-family: 'Hakgyoansim Dunggeunmiso TTF';
+}
+
+.sports-day-programs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 206px;
+  max-width: 100%;
+  color: #000;
+  font-family: Montserrat;
+}
+
+.summer-vacation-container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 23.6px;
+  max-width: 100%;
+}
+
+.summer-vacation-programs {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.align-justify-icon20 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.align-center-icon10 {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.align-justify-parent8 {
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.align-buttons {
+  width: 212px;
+  background-color: #D4CACA;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 142px 51px 58px;
+  box-sizing: border-box;
+}
+
+.list-12 {
+  margin-left: -1186px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 13px;
+  box-sizing: border-box;
+  gap: 66px;
+  max-width: 113%;
+}
+
+.arrow-left-icon5 {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+
+.arrow-right-icon5 {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.carousel-controls {
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin: 0 220px 20px 0;
+}
+
+.component-2 {
+  height: 80px;
+  width: 180px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.carousel-controls .swiper-button-next:after,
+.carousel-controls .swiper-button-prev:after {
+  content: '';
+  font-size: 0;
+}
+
+.carousel-controls .swiper-button-next,
+.carousel-controls .swiper-button-prev {
+  background-color: transparent;
+  padding: 0;
+  width: 80px;
+  height: 80px;
+  bottom: 0;
+  left: auto;
+  margin: 0;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.tennis-program-icon {
+  height: 450px;
+  position: relative;
+  overflow: hidden;
+}
+
+.program-extra-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 59px 0px 60px;
+  font-size: 25px;
+  color: #000;
+}
+
+.skateboarding-name-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 26px;
+}
+
+.skateboarding-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 5px 0px 0px;
+}
+
+.div94 {
+  height: 36px;
+  line-height: 36px;
+  width: 139px;
+  position: relative;
+  font-size: 25px;
+  font-weight: 300;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.frame-button {
+  cursor: pointer;
+  border: none;
+  padding: 15px 37px 18px 40px;
+  background-color: rgba(226, 177, 234, 0.8);
+  width: 264px;
+  height: 69px;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: 14px;
+  z-index: 1;
+}
+
+.skateboarding-container {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 200px;
+}
+
+.skateboarding-program {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  max-width: 100%;
+  padding: 20px 0;
+}
+
+.list-26 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: #fff;
+  gap: 33px;
+}
+
+.wrapper27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 17px;
+  font-size: 25px;
+  color: #000;
+}
+
+.frame-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0 0px 0px;
+}
+
+.hand-point-up-icon12 {
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  margin: 0 !important;
+  top: 15px;
+  right: 37px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.parent6 {
+  width: 264px;
+  border-radius: 30px;
+  background-color: rgba(226, 177, 234, 0.8);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 15px 40px 18px;
+  box-sizing: border-box;
+  position: relative;
+  font-size: 25px;
+  color: #fff;
+}
+
+.program-carousel-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 86px;
+  max-width: 100%;
+}
+
+.program-carousel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  flex-shrink: 0;
+  max-width: 234%;
+  color: #2d39a5;
+  font-family: Montserrat;
+}
+
+.frame-parent28 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 39px;
+  min-width: 284px;
+  max-width: 100%;
+}
+
+.wrapper28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 64px 0px 60px;
+  font-size: 25px;
+  color: #000;
+}
+
+.frame-parent29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 206px;
+  max-width: 100%;
+  color: #2d39a5;
+  font-family: Montserrat;
+}
+
+.list-28 {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 13px;
+  box-sizing: border-box;
+  gap: 66px;
+  flex-shrink: 0;
+  max-width: 113%;
+  font-family: Staatliches;
+}
+
+.sports-day-with8 {
+  position: relative;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.wrapper29 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 60px 180px;
+}
+
+.div100 {
+  width: 137px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.sports-day-more-info-container {
+  width: 264px;
+  border-radius: 30px;
+  background-color: rgba(226, 177, 234, 0.8);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 40px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.sports-day-more-info {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-family: 'Hakgyoansim Dunggeunmiso TTF';
+}
+
+.sports-day-with-family-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+  min-width: 348px;
+  max-width: 100%;
+  font-size: 25px;
+  color: #000;
+  font-family: Montserrat;
+}
+
+.list-32 {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 13px;
+  box-sizing: border-box;
+  gap: 66px;
+  flex-shrink: 0;
+  max-width: 113%;
+}
+
+.program-list3-container {
+  width: 100%;
+  position: relative;
+}
+
+.program-list3 {
+  width: 100%;
+  overflow: hidden;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.swiper-button-prev {
+  left: 0;
+}
+
+.swiper-button-next {
+  right: 0;
+}
+
+.program-slide .swiper-container {
+  overflow: visible;
+}
+
+.program-slide .swiper-slide {
+  /* opacity: 0.5; */
+  transition: opacity 0.3s ease;
+}
+
+.program-slide .swiper-slide-active {
+  opacity: 1;
+  /* 활성 슬라이드는 완전히 불투명하게 설정 */
+}
+
+
+.con22 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 54px 0px 205px;
+  box-sizing: border-box;
+  gap: 48px;
+  width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #8582d1;
+}
+
+.b5 {
+  position: relative;
+  display: inline-block;
+  min-width: 111px;
+}
+
+.recent-meals {
+  width: 386px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 42px;
+  max-width: 100%;
+}
+
+.arrow-up-right-icon2 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.announcements-header1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1px;
+}
+
+.announcements {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0px 0px;
+}
+
+.input1 {
+  width: 47px;
+  border: none;
+  outline: none;
+  font-weight: 500;
+  font-size: 25px;
+  background-color: transparent;
+  position: relative;
+  color: #d4caca;
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+
+.notice-categories {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.notice-board-header-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #b7b5e0;
+  box-sizing: border-box;
+}
+
+.notice-board-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 1px;
+  gap: 5.8px;
+}
+
+.notice-date-time {
+  position: relative;
+  font-weight: 900;
+}
+
+.notice-item-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 13px 0px 14px;
+}
+
+.notice-location {
+  position: relative;
+  font-size: 18px;
+}
+
+.notice-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+
+.notice-titles {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  font-size: 25px;
+  height: 100%;
+}
+
+.li-013 {
+  align-self: stretch;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #9290c3;
+  border-bottom: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 16px 25px 18px;
+  gap: 87px;
+  max-width: 100%;
+}
+
+.wrapper34 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 26px 0px 0px;
+  font-size: 25px;
+}
+
+.li-041 {
+  align-self: stretch;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #9290c3;
+  border-bottom: 1px solid #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 25px 18px;
+  gap: 87px;
+}
+
+.li2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px;
+  max-width: 100%;
+}
+
+.notice-list {
+  width: 100%;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+.notice-board {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32.2px;
+  width: 100%;
+  color: #b2b0e1;
+}
+
+.updates-container {
+  width: 1399px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 168px;
+  max-width: 100%;
+}
+
+.updates {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: 25px;
+  color: #d4caca;
+}
+
+.updates-header {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 46.7px;
+  max-width: 100%;
+}
+
+.recent-updates {
+  width: 1700px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 40px 145.7px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #8582d1;
+  margin: 0 auto;
+}
+
+.file-text-icon2 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.file-icon-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 9px;
+}
+
+.box-guide {
+  width: 300px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background-color: #aeace7;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 20px 22px 21px;
+  box-sizing: border-box;
+  gap: 71px;
+}
+
+.map-icon2 {
+  height: 100px;
+  width: 150px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.map-container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 4px;
+}
+
+.box-navi {
+  width: 300px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background-color: #aeace7;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 25px 22px;
+  box-sizing: border-box;
+  gap: 69px;
+}
+
+.car-icon2 {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.box-titles {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 44px 0px 0px;
+}
+
+.park {
+  flex: 1;
+  border-bottom: 1px solid #1b1a55;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 51px 0px 12px;
+  gap: 70px;
+  min-width: 186px;
+}
+
+.wrapper35 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 45px 0px 0px;
+}
+
+.location1 {
+  flex: 0.8;
+  border-bottom: 1px solid #1b1a55;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 50px 0 12px;
+  gap: 33px;
+}
+
+.info {
+  flex: 1;
+  border-bottom: 1px solid #1b1a55;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 49px 0px 14px;
+  gap: 41px;
+}
+
+.box-3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  gap: 24px;
+}
+
+.information-boxes {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 41px;
+  box-sizing: border-box;
+}
+
+.navigation2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 63px;
+  min-width: 852px;
+  max-width: 100%;
+}
+
+.guide-tip2 {
+  width: 1636px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 25px;
+  max-width: 100%;
+}
+
+.guide-tip2 a {
+  color: #1b1a55;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.guides {
+  max-width: 1870px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 20px 144.7px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 25px;
+  color: #1b1a55;
+  margin: 0 auto;
+}
+
+.leehot-sports2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: "Hakgyoansim Dunggeunmiso TTF";
+}
+
+.seoul-samsung2 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.branch {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 43px;
+  font-size: 30px;
+  font-family: Montserrat;
+}
+
+.location2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  max-width: 100%;
+}
+
+.address {
+  width: 340px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.pilateeesgooglecom2 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.tel-010-000-22222 {
+  position: relative;
+}
+
+.info1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20.5px;
+  max-width: 100%;
+  font-size: 30px;
+  font-family: Montserrat;
+  margin-top: 160px;
+
+}
+
+.contact1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-family: Montserrat;
+}
+
+.youtube-icon2 {
+  height: 70px;
+  width: 45px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.facebook-brands-solid-1-icon2 {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.5px 0px 0px;
+}
+
+.social1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+
+.footer-container {
+  width: 1623px;
+  max-width: 100%;
+}
+
+.footer2 {
+  width: 1865px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: 'Hakgyoansim Dunggeunmiso TTF';
+  margin: 0 auto;
+}
+
+.wrap {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg,
+      #070f2b,
+      #1b1a55 32.5%,
+      #535c91 70.5%,
+      #9290c3);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13px 0px 65px;
+  box-sizing: border-box;
+  gap: 9.3px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.tab {
+  color: #b2b0e1;
+  font-size: 25px;
+  background: none;
+  border: none;
+  padding: 10px 0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tab.active {
+  color: #d4caca;
+  font-weight: bold;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}

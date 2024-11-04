@@ -1,0 +1,324 @@
+@charset "utf-8";
+/* 태블릿 버전 (1024px 이하) */
+@media screen and (max-width: 1024px) {
+  .main-wrapper {
+    padding: 0 20px 25px;
+  }
+
+  .nav {
+    flex-direction: column;
+  }
+
+  .nav-right {
+    width: 100%;
+    padding: 0;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .program1 {
+    font-size: 30px;
+  }
+
+  .line-up {
+    display: none;
+  }
+
+  .tennis-content-wrapper {
+    padding: 0;
+  }
+
+  .search-button {
+    padding: 0;
+  }
+
+  .search-icon2 {
+    width: 38px;
+    height: 38px;
+  }
+
+  .slide-controls {
+    bottom: 40px;
+    right: 50px;
+  }
+
+  .healthy-and-happy2 {
+    font-size: 70px;
+    margin: 0 32px;
+  }
+
+  .programs-content {
+    flex-direction: column;
+  }
+
+  .programs-content-parent {
+    position: relative;
+  }
+
+  .pp-wrapper {
+    position: absolute;
+    top: 0;
+    right: 50px;
+    padding: 0px;
+  }
+
+  .text-11 {
+    padding: 54px 20px 0 48px;
+  }
+
+  .group-icon2 {
+    height: 300px;
+  }
+
+  .program-list2 {
+    padding-top: 0;
+  }
+
+  .program-name-container,
+  .pilates-group,
+  .parent4,
+  .div83 {
+    width: auto;
+  }
+
+  .golf-running {
+    padding: 0px 0 96.7px;
+  }
+
+  .list-012,
+  .tennis-details,
+  .activity-info {
+    gap: 23px 0;
+    overflow-x: auto;
+  }
+
+  .carousel-controls {
+    margin: 0 200px 20px 0;
+  }
+
+  .tennis-program-icon {
+    height: 400px;
+  }
+
+  .skateboarding-container {
+    gap: 160px;
+  }
+
+  .align-buttons {
+    width: 180px;
+    padding: 100px 30px 50px;
+  }
+
+  .program-extra-details {
+    padding: 0px;
+  }
+
+  .con22 {
+    padding: 54px 0px 60px;
+  }
+
+  .updates-container {
+    gap: 50px;
+    flex-direction: column;
+  }
+
+  .updates-header {
+    gap: 30px;
+  }
+
+  .separator-wrapper {
+    padding: 17.5px 0px 0px;
+  }
+
+  .announcements {
+    padding-left: 290px;
+  }
+
+  .guide-tip2 {
+    width: auto;
+    justify-content: center;
+  }
+
+  .recent-updates {
+    padding: 0px 40px 70px;
+  }
+
+  .guides {
+    padding: 0px 40px 70px;
+  }
+
+  .footer-container {
+    width: 100%;
+    margin: 0 40px;
+  }
+
+  .footer2 {
+    width: 100%;
+  }
+}
+
+/* 모바일 버전 (768px 이하) */
+@media screen and (max-width: 768px) {
+  .program1,
+  .view1,
+  .event1 {
+    display: none;
+  }
+
+  .info-wrapper {
+    left: 20px;
+    top: 20px;
+  }
+
+  .leehot-sports-center2 {
+    font-size: 80px;
+  }
+
+  .slide-controls {
+    bottom: 30px;
+    right: 30px;
+  }
+
+  .healthy-and-happy2 {
+    font-size: 50px;
+    margin: 0;
+  }
+
+  .tennis-details {
+    min-width: auto;
+  }
+
+  .programs-content-parent {
+    font-size: 25px;
+    padding-right: 0;
+  }
+
+  .h33 {
+    font-size: 28px;
+  }
+
+  .group-icon2 {
+    height: 250px;
+  }
+
+  .notice-board,
+  .program-list2 {
+    min-width: auto;
+  }
+
+  .carousel-controls {
+    position: absolute;
+    top: -120px;
+    right: 20px;
+    margin: 0 0 20px 0;
+  }
+
+  .con22 {
+    align-items: flex-start;
+  }
+
+  .ticket-description2 {
+    align-self: auto;
+  }
+
+  .align-buttons {
+    display: none;
+  }
+
+  .box-guide,
+  .box-navi {
+    width: 100%;
+  }
+
+  .navigation2,
+  .information-boxes {
+    min-width: auto;
+  }
+
+  .the-seoul-hanriver a {
+    font-size: 20px;
+  }
+
+  .tennis-program-icon {
+    height: 280px;
+  }
+
+  .list-26 {
+    gap: 10px;
+  }
+
+  .wrapper27 {
+    padding: 0;
+    justify-content: center;
+  }
+
+  .li-013 {
+    gap: 30px;
+  }
+
+  .skateboarding-container {
+    gap: 60px;
+  }
+
+  .parent6 {
+    width: auto;
+    border-radius: 30px;
+    padding: 15px 80px 18px 40px;
+    font-size: 20px;
+  }
+
+  .hand-point-up-icon12 {
+    width: 30px;
+    height: 30px;
+  }
+
+  .guides {
+    padding: 0px 20px 30px;
+  }
+
+  .guide-tip2 > a {
+    width: 45%;
+  }
+
+  .box-3 a {
+    flex: 1;
+  }
+
+  .active-programs {
+    width: auto;
+  }
+
+  .park,
+  .info,
+  .location1 {
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .box-titles,
+  .wrapper35 {
+    padding: 0;
+  }
+
+  .contact1 {
+    flex-direction: column;
+  }
+
+  .info1 {
+    margin-top: 50px;
+  }
+
+  .social1 {
+    margin-top: 30px;
+  }
+
+  .text-11 {
+    padding: 54px 0 0 20px;
+  }
+
+  .seoul-samsung2 {
+    display: none;
+  }
+}
